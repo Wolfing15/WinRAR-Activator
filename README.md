@@ -1,21 +1,21 @@
 # WinRAR Activator
 
-A simple method to quickly register and activate WinRAR by placing the license file into the installation directory.
+A simple method to activate WinRAR if you're tired of the license payment screen.
 
-## ⚙️ How it works
+## ⚙️ How does it work?
 
-When launched, WinRAR automatically looks for a license file named `rarreg.key` in its main installation folder. This tool simply places that file into the appropriate directory so the program detects it and activates automatically.
+WinRAR automatically searches for a license file named `rarreg.key` in its main installation folder when it runs. Simply place this file in the appropriate directory so the program can detect it and activate automatically.
 
 ---
 
-## 🚀 Usage Instructions
+## 🚀 Instructions for Use
 
 1. Download the license file (`rarreg.key`) from this repository.
 2. Go to the folder where WinRAR is installed on your computer.
-   * **Common default path:** 
+   * **Common default path:**
      ```text
      C:\Program Files\WinRAR
      ```
-     *(Note: If you installed WinRAR in a different location or are using a 32-bit system, look for the corresponding folder, such as Program Files (x86)).*
-3. Paste or drag the `rarreg.key` file directly into that folder.
-4. Open WinRAR and you're done! It should now appear as registered.
+     *(Note: If you installed WinRAR in a different location, locate the corresponding folder.)*
+3. Paste or drag the `rarreg.key` file into that folder.
+4. Open WinRAR, and you’re done! It should now appear as registered.
