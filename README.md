@@ -18,4 +18,4 @@ WinRAR automatically searches for a license file named `rarreg.key` in its main 
      ```
      *(Note: If you installed WinRAR in a different location, locate the corresponding folder.)*
 3. Paste or drag the `rarreg.key` file into that folder.
-4. Open WinRAR, and you’re done! It should now appear as registered =).
+4. Open WinRAR, and you’re done! It should now appear as registered =D.
